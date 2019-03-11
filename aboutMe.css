@@ -1,0 +1,19 @@
+/**
+CSS file for aboutMe.html
+*/ 
+body {
+    background: url("http://hdimages.org/wp-content/uploads/2016/11/html-background-image-HD5-1.jpg");
+    background-position: center;
+}
+h1 {
+    text-align: center;
+    color: lightblue;
+    font-family: 'Georgia';
+    font-size: 30px;
+}
+p {
+    color: lightblue;
+    font-family: "sans-serif";
+    font-size: 30px;
+}
+

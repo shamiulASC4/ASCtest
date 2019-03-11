@@ -1,0 +1,44 @@
+/**
+CSS for main index.html file
+*/ 
+
+.container {
+    color: #286090;
+    text-align: center; 
+    padding: 10px;
+     
+    }
+
+
+    .navbar-brand {
+        float: right;
+        color: white; 
+        padding:10px;
+    
+    }
+ 
+
+    header{
+        position: center;
+    }
+    .row {
+        font-size: 22px;
+    }
+    
+    
+    h1 {
+        text-align: center;
+        color: white;
+        font-family: 'Georgia';
+        font-size: 33px;
+    }
+    p {
+        color: white;
+        font-family: "sans-serif";
+        font-size: 20px;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
